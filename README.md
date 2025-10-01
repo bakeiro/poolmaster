@@ -1,1 +1,0 @@
-`deno -A script_copy_content.js`
